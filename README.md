@@ -6,8 +6,8 @@ My blog: <https://kothing.github.io>
 
 
 
-|  主页  | Blog  | Wallpaper | Website navigation
-|  ----  | ---------- | ---------| ------ |------------- |
+|  NiceBoy  | Blog  | Wallpaper | Website |
+|  ---------  | --------- | --------- | --------- |
 | [点我直达](http://nice-boy.com/) | [点我直达](http://work.nice-boy.com) | [点我直达](http://wallpaper.nice-boy.com) | [点我直达](http://site.nice-boy.com) |
 
 
